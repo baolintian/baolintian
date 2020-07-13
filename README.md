@@ -1,6 +1,6 @@
 ### Hi welcome to visit this page~👋
 
 + Have a wide range of interests of technology subjects.:poultry_leg:
-+ I Graduated from __Xidian University__ and I'm ready to get further study at __THssSE DWF__ group.:school:
++ I graduated from __Xidian University__ and I'm ready to get further study at __THssSE DWF__ group.:school:
 
 + I'm aiming at becoming a qualified __software developer__.:octocat:
